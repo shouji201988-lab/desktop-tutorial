@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head> 
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>FV模写の練習</title>
+        <link rel="stylesheet" href="style.css">
+     </head>
+    <body>
+        <header>
+            <h1>FVプラクティス</h1>
+        </header>
+
+        <main>
+            <section class="fv">
+                <h2>FV模写を頑張ります！</h2>
+                <p>未経験のITエンジニア転職を目指して頑張ります！</p>
+                <a href="#">詳しく見る</a>
+            </section>
+        </main>
+    </body>
+</html>
